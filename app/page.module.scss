@@ -1,0 +1,11 @@
+@use './main.scss';
+
+.page {
+  main {
+    width: main.$page-width;
+    margin: 2em auto;
+    display: flex;
+    flex-direction: column;
+    background-color:aquamarine;
+  }
+}
