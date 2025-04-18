@@ -1,4 +1,5 @@
-import Income from './components/Income'
+
+import Income from './components/income'
 import css from './page.module.scss'
 
 export default function Home() {

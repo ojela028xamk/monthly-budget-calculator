@@ -1,3 +1,23 @@
 .income {
   background-color: antiquewhite;
+  width: 600px;
+  height: 200px;
+  margin: 3em;
+
+  h2 {
+    margin: 0.5em;
+  }
+  
+  .add_item {
+    display: flex;
+
+    .input, .button {
+      margin: 0 1em;
+    }
+
+    .button {
+     font-size: 1.2em;
+    }
+
+  }
 }

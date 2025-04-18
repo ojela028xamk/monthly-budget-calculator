@@ -1,6 +1,12 @@
 @use './main.scss';
 
 .page {
+  text-align: center;
+
+  h1 {
+    margin: 1em;
+  }
+
   main {
     width: main.$page-width;
     margin: 2em auto;
