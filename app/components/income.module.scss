@@ -8,7 +8,7 @@
     margin: 0.5em;
   }
   
-  .add_item {
+  .income_add_item {
     display: flex;
 
     .input, .button {
@@ -20,4 +20,12 @@
     }
 
   }
+
+  .income_list {
+    margin: 1em;
+    display: flex;
+    flex-direction:column;
+    font-size: 1.2em;
+  }
+
 }
